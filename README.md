@@ -1,2 +1,5 @@
 # test20-01-LearningGithub
-un repositorio, es el nombre de GIT para un proyecto.
+
+## Esto es un nuevo repositorio para la Prueba de Folk y PULL:
+
+
